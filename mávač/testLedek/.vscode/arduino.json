@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "port": "COM7",
+    "programmer": "arduino:avrispmkii",
+    "sketch": "testLedek.ino"
+}
