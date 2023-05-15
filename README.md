@@ -5,7 +5,7 @@
   * Resistors (3x220Ω 》Led, 2x10KΩ 》buttons)
   * LiPol Battery (900mAh, 3.7V)
   * Stepper motor (28BYJ-48)
-  * Controller for stepper motor (Uln2003)
+  * Controller for stepper motor (ULN2003)
   * Potentiometer (10 kΩ)
   * LI-ion battery charger 
   * Ultrasonic sensor (HC-SR05)
