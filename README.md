@@ -2,13 +2,14 @@
 ### > HW project
   * C++
   * Arduino Nano R3
-  * Arduino UNO prototype Shield
-  * Resistors
-  * LiPol Battery (900mAh)
+  * Breadboard
+  * Resistors (3x220Ω 》Led, 2x10KΩ 》buttons)
+  * LiPol Battery (900mAh, 3.7V)
   * Stepper motor (28BYJ-48)
   * Controller for stepper motor (Uln2003)
   * Potentiometer (10 kΩ)
   * LI-ion battery charger 
+  * Ultrasonic sensor (HC-SR05)
   * RGB Led
   * 3D printed parts (Inventor)
   >Scheme in project folder
