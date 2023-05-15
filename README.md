@@ -1,6 +1,5 @@
 # WAVING ROBOT (MÁVAČ)
 ### > HW project
-  * C++
   * Arduino Nano R3
   * Breadboard
   * Resistors (3x220Ω 》Led, 2x10KΩ 》buttons)
