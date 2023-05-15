@@ -3,10 +3,10 @@
   * C++
   * Arduino Nano R3
   * Arduino UNO prototype Shield
-  * Transistors
+  * Resistors
   * LiPol Battery (900mAh)
-  * Stepping motor (28BYJ-48)
-  * Controller for stepper motor
+  * Stepper motor (28BYJ-48)
+  * Controller for stepper motor (Uln2003)
   * Potentiometer (10 kΩ)
   * LI-ion battery charger 
   * RGB Led
