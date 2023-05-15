@@ -1,4 +1,4 @@
-# WAVING ROBOR (MÁVAČ)
+# WAVING ROBOT (MÁVAČ)
 ### > HW project
   * C++
   * Arduino Nano R3
